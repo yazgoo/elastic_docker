@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'elastic_docker'
+ElasticDocker::Server.new
